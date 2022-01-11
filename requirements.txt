@@ -1,0 +1,4 @@
+Django
+pyTelegramBotAPI
+djangorestframework
+python-dotenv
